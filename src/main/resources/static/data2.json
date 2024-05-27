@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "result": [
+    {
+      "_id": "65fd642a9d000784cbdd6035",
+      "removed": false,
+      "enabled": true,
+      "account": "65fd641a9d000784cbdd5fdd",
+      "branch": "65fd641a9d000784cbdd5fdf",
+      "currency_name": "US Dollar",
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "currency_position": "before",
+      "decimal_sep": ".",
+      "thousand_sep": ",",
+      "cent_precision": 2,
+      "zero_format": true,
+      "isDefault": false,
+      "created": "2024-03-22T10:57:46.563Z",
+      "__v": 0
+    },
+    {
+      "_id": "65fd642a9d000784cbdd6036",
+      "removed": false,
+      "enabled": true,
+      "account": "65fd641a9d000784cbdd5fdd",
+      "branch": "65fd641a9d000784cbdd5fdf",
+      "currency_name": "Euro",
+      "currency_code": "EUR",
+      "currency_symbol": "€",
+      "currency_position": "after",
+      "decimal_sep": ".",
+      "thousand_sep": " ",
+      "cent_precision": 2,
+      "zero_format": true,
+      "isDefault": false,
+      "created": "2024-03-22T10:57:46.563Z",
+      "__v": 0
+    }
+  ],
+  "message": "Successfully found all documents"
+}
